@@ -2,6 +2,8 @@
 #This is to get the random order of an array of a folder
 
 #by Shibiao WAN, 03-Sep-2016, Princeton, NJ, USA
+#revised on 08-Mar-2022
+
 use strict;
 use warnings;
 use Switch;
