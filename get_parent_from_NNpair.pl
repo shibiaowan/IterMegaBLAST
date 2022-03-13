@@ -6,6 +6,7 @@
 #  ./get_parent_from_NNpair.pl B T
 
 #by Shibiao WAN, 13-Aug-2016, Princeton, NJ, USA
+#revised on 08-Mar-2022
 
 use strict;
 use warnings;
