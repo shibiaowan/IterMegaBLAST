@@ -7,6 +7,7 @@
 #  ./get_dist_from_align.pl 
 
 #by Shibiao WAN, 10-Aug-2016, Princeton, NJ, USA
+#revised on 08-Mar-2022
 
 use strict;
 use warnings;
