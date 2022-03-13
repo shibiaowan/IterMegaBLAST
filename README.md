@@ -23,6 +23,6 @@ We implemented IterMegaBLAST by Perl. To facilitate customizing IterMegaBLAST, w
 ```{r}
 #1. sequence alignment and clustering
 ./get_size2_cluster.pl.pl <fasta_dir> <tmp dir> <results file>
-#2. sequence obbuscation
+#2. sequence obfuscation
 ./get_dist_from_align.pl <ncalign_file> <dist>
 ```
