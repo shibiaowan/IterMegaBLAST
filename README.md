@@ -29,4 +29,4 @@ We implemented IterMegaBLAST by Perl. To facilitate customizing IterMegaBLAST, w
 
 # Citation:
 
-Shibiao Wan* and Jieqiong Wang*. A Sequence Obfuscation for Protecting Genomic Privacy, <b><i>Frontiers in Genetics</i></b>, 2022. (accepted)
+Shibiao Wan* and Jieqiong Wang*. A Sequence Obfuscation for Protecting Personal Genomic Privacy, <b><i>Frontiers in Genetics</i></b>, 2022. [link](https://www.frontiersin.org/articles/10.3389/fgene.2022.876686) (accepted)
