@@ -26,3 +26,7 @@ We implemented IterMegaBLAST by Perl. To facilitate customizing IterMegaBLAST, w
 #2. sequence obfuscation
 ./get_dist_from_align.pl <ncalign_file> <dist>
 ```
+
+# Citation:
+
+Shibiao Wan* and Jieqiong Wang*. A Sequence Obfuscation for Protecting Genomic Privacy, <b><i>Frontiers in Genetics</i></b>, 2022. (accepted)
